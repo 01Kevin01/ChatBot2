@@ -1,8 +1,7 @@
 
-![Uploading ChatBot2.PNG…]()
+![ChatBot2](https://github.com/01Kevin01/ChatBot2/assets/131346373/5b2f444c-cb22-4f46-8e26-7cb4c484e9a9)
 ![hesap_makinesi](https://github.com/01Kevin01/ChatBot2/assets/131346373/a1d2a9de-3580-4016-a76c-51fe5a1beec9)
-![Uploading çizim.PNG…]()
-
+![çizim](https://github.com/01Kevin01/ChatBot2/assets/131346373/15cc14f3-21fa-4b9c-8838-3c198782bb4d)
 
 # ChatBot2
 ChatBot2
