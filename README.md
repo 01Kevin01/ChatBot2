@@ -7,7 +7,7 @@
 ChatBot2
 --------------------------------------------------------------------------
 TÜRKÇE
-#ChatBot2.py
+# ChatBot2.py
 
 Bu kod, kullanıcıların bir Tkinter arayüzü üzerinden bir sohbet botuyla etkileşime girmesini sağlayan bir Python programını oluşturuyor. Kullanıcılar metin girişi yapabilir, çeşitli komutları çalıştırabilir ve botun cevaplarını görüntüleyebilirler. Aynı zamanda hava durumu bilgisini çekmek, Wikipedia aramaları yapmak, iletişim bilgilerini göstermek gibi işlevleri de içerir.
 
@@ -35,7 +35,7 @@ Bu kodu çalıştırmak için gerekli olan Python kütüphanelerini yüklemeniz 
 
 Kodun açıklamaları doğrultusunda yukarıda verilen görevleri gerçekleştiren bir sohbet botu arayüzü oluşturmuş olacaksınız.
 --------------------------------------------------------------------------
-#çizim.py
+# çizim.py
 
 Bu kod, basit bir çizim uygulamasının gelişmiş versiyonunu oluşturuyor. Bu uygulama kullanıcının çizim yapabilmesi için farklı araçlar ve seçenekler sunuyor. Çizimlerin yapılacağı bir tuval (canvas) ve bu tuval üzerinde çizim araçlarını seçmek için butonlar bulunuyor. Ayrıca renk seçimi, çizgi kalınlığı ayarı, çizimlerin kaydedilmesi ve yüklenebilmesi gibi özellikleri de içeriyor.
 
@@ -68,7 +68,7 @@ Bu kodun çalışması için aşağıdaki kütüphanelere ihtiyaç vardır:
 Kodu çalıştırmadan önce Pillow kütüphanesini yüklemeniz gerekebilir. Bu kodu çalıştırdığınızda gelişmiş bir çizim uygulamasının arayüzünü göreceksiniz. Araçları kullanarak çizimler yapabilir, renk ve kalınlık seçimleri yapabilir, çizimleri kaydedebilir veya yükleyebilirsiniz.
 
 --------------------------------------------------------------------------
-#hesap_makinesi.py
+# hesap_makinesi.py
 
 Bu kod, basit bir üst düzey hesap makinesi uygulamasını oluşturuyor. Bu hesap makinesi, kullanıcının matematiksel işlemler yapabilmesi için bir arayüz sunuyor. Kullanıcı sayıları, matematiksel operatörleri ve hesaplama sonuçlarını görüntülemek için bir girdi alanı, hesaplama butonları ve geçmiş işlemleri göstermek için bir metin alanı içerir.
 
@@ -105,7 +105,7 @@ Yazdığım kodları isteyen geliştirebilir ve bana danışabilir.Kod yorumlar�
 
 --------------------------------------------------------------------------
 English
-#ChatBot2.py
+# ChatBot2.py
 
 This code creates a Python program that allows users to interact with a chatbot via a Tkinter interface. Users can enter text, run various commands, and view the bot's responses. It also includes functions such as pulling weather information, doing Wikipedia searches, displaying contact information.
 
@@ -134,7 +134,7 @@ You may need to install the Python libraries required to run this code. Also not
 In line with the explanations of the code, you will have created a chatbot interface that performs the tasks given above.
 
 --------------------------------------------------------------------------
-#çizim.py
+# çizim.py
 
 This code creates an advanced version of a simple drawing application. This application offers different tools and options for the user to draw. There is a canvas (canvas) on which drawings will be made and buttons to select drawing tools on this canvas. It also includes features such as color selection, line thickness adjustment, saving and loading of drawings.
 
@@ -166,7 +166,7 @@ The following libraries are needed for this code to work:
 
 You may need to install the Pillow library before running the code. When you run this code, you will see the interface of an advanced drawing application. Using the tools you can make drawings, make color and thickness selections, and save or load drawings.
 --------------------------------------------------------------------------
-#hesap_makinesi.py
+# hesap_makinesi.py
 
 This code creates a simple high-level calculator. This calculator offers something for users to do their trading. Usergroups contain an input field to display stored operators and calculation results, calculation buttons, and a text field to use past operations.
 
