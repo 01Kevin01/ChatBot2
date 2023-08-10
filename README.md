@@ -5,6 +5,9 @@
 
 # ChatBot2
 ChatBot2
+Bu kod, ChatGPT desteğine sahip farklı bir proje için yardım aldı
+This code got help for a different project with ChatGPT support
+https://github.com/01Kevin01/Basic-Web-Tools/blob/main/README.md#chatbot2
 --------------------------------------------------------------------------
 TÜRKÇE
 # ChatBot2.py
