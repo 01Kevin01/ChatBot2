@@ -6,11 +6,8 @@ import requests
 import subprocess
 
 
-
-
-
 # WeatherAPI API anahtarı
-api_key = "WeatherAPI"
+api_key = "WeatherAPI key gelecektir"
 
 
 
@@ -115,10 +112,10 @@ def get_response(message):
         return "Resim çizme penceresi açıldı."
     elif "iletişim" in message:
         open_contact_window()
-        return "İletişim penceresi açıldı.İletişim Bilgileri:\nE-posta: 01Kevin0110@proton.me\n"
+        return "İletişim penceresi açılıyor...|İletişim Bilgileri:\nE-posta: 01Kevin0110@proton.me\n"
     elif "hesap makinesi" in message:
         open_calculator()
-        return "Hesap makinesi penceresi açıldı."
+        return "Hesap makinesi penceresi açılıyor..."
     else:
         try:
             wikipedia.set_lang("tr")  # Set Wikipedia language to Turkish
