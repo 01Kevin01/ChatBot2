@@ -115,7 +115,7 @@ def get_response(message):
         return "Resim çizme penceresi açıldı."
     elif "iletişim" in message:
         open_contact_window()
-        return "İletişim penceresi açıldı.İletişim Bilgileri:\nE-posta: linuxlinux93736429@gmail.com\n"
+        return "İletişim penceresi açıldı.İletişim Bilgileri:\nE-posta: 01Kevin0110@proton.me\n"
     elif "hesap makinesi" in message:
         open_calculator()
         return "Hesap makinesi penceresi açıldı."
@@ -264,7 +264,7 @@ clear_button.pack(side=tk.LEFT)
 def open_contact_window():
     contact_window = tk.Toplevel(root)
     contact_window.title("İletişim")
-    contact_label = tk.Label(contact_window, text="İletişim Bilgileri:\nE-posta: linuxlinux93736429@gmail.com\n")
+    contact_label = tk.Label(contact_window, text="İletişim Bilgileri:\nE-posta: 01Kevin0110@proton.me\n")
     contact_label.pack()
 
 # "İletişim" düğmesi ile open_contact_window fonksiyonunu çağırma
